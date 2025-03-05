@@ -1,5 +1,6 @@
 # Basic OOPs concept of Java
-  This is code of basic OOPS concept examples
+  This is code of basic OOPS concept examples and some of the basic java programs
+  
 ## Language used
 - JAVA
 
